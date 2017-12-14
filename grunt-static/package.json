@@ -1,18 +1,18 @@
 {
-  "name": "base-grunt-project",
+  "name": "Base Grunt",
   "version": "1.0.0",
-  "description": "my base grunt project",
+  "description": "my base grunt",
   "main": "main.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mendoza077/base-grunt-project.git"
+    "url": "https://github.com/KimQuiros/Grunt-base.git"
   },
-  "author": "Josué Mendoza",
+  "author": "KimQuiros",
   "license": "",
   "bugs": {
-    "url": "https://github.com/mendoza077/base-grunt-project/issues.git"
+    "url": "https://github.com/KimQuiros/Grunt-base/issues.git"
   },
-  "homepage": "https://github.com/mendoza077/base-grunt-project",
+  "homepage": "https://github.com/KimQuiros/Grunt-base",
   "devDependencies": {
     "browser-sync": "^2.9.3",
     "grunt": "^0.4.5",
