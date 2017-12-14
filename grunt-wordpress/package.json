@@ -1,0 +1,28 @@
+{
+  "name": "base-grunt",
+  "version": "1.0.0",
+  "description": "Grunt projects",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KimQuiros/base-grunt.git"
+  },
+  "author": "Kim Quirós",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/KimQuiros/base-grunt/issues.git"
+  },
+  "homepage": "https://github.com/KimQuiros/base-grunt",
+  "devDependencies": {
+    "browser-sync": "^2.9.3",
+    "browser-sync-webpack-plugin": "^1.2.0",
+    "grunt": "^0.4.5",
+    "grunt-browser-sync": "^2.1.3",
+    "grunt-contrib-compress": "^0.3.2",
+    "grunt-contrib-imagemin": "^0.9.4",
+    "grunt-contrib-uglify": "^0.9.2",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-newer": "^1.1.1",
+    "grunt-sass": "^1.0.0"
+  }
+}
